@@ -13,5 +13,11 @@ Lasagna but is an indoor robot that can showcase onboard VSLAM. As sensors it ha
 - 8 inch screen to display results
 - 3d printed structure
 
+## software
+- ROS
+- Rtabmap
+- OpenVins
 
-
+## extensions
+- ROS2 implementation
+- stereo camera with 3 cameras to switch between different baselines
