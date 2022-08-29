@@ -1,9 +1,9 @@
 # lasagna_bot_public
-Software running lasagna bot code
+Software running Lasagna-Bot code
 
 
 ## Project purpose
-Lasagna but is an indoor robot that can showcase onboard VSLAM. As sensors it has a stereo camera and an inertial measurement unit. The map that is calculated onboard is then displayed directly on its own screen to show what the robot can "see". It is called Lasagna but because of its modular 3d printed structures, which distributes the components over multiple "layers".
+Lasagna-Bot is an indoor robot that can showcase onboard VSLAM. As sensors it has a stereo camera and an inertial measurement unit. The map that is calculated onboard is then displayed directly on its own screen to show what the robot can "see". It is called Lasagna-Bot because of its modular 3d printed structures, which distributes the components over multiple "layers".
 
 
 ## Hardware
